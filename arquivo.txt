@@ -1,0 +1,5 @@
+id;nome;telefone;idade
+1;pedro;90328502;20
+2;André;32095820;20
+3;Vitor;20942039;18
+4;Arnaldo;3209303;49
